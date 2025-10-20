@@ -1,4 +1,4 @@
-# 📚 recipes_list
+# 📚 Recipes List
 
 Este é um projeto, desenvolvido durante o bootcamp **Brasil l Sui Move Bootcamp - Outubro**, para gerenciamento de receitas utilizando a linguagem [Move](https://move-language.github.io/move/), voltado para a blockchain [Sui](https://docs.sui.io/). O objetivo é permitir o cadastro, remoção de receitas culinárias, com suporte a imagens armazenadas externamente.
 
@@ -11,7 +11,7 @@ Este é um projeto, desenvolvido durante o bootcamp **Brasil l Sui Move Bootcamp
 ## 📦 Estrutura do Projeto
 
 ```bash
-recipes_list/
+recipes-list/
 ├── sources/
 │   └── img/                 # Imagens das receitas
 │       └── image.png
@@ -27,7 +27,7 @@ recipes_list/
 1. **Clone o repositório:**
 
   ```bash
-   git clone https://github.com/devtiagobr/recipes_list.git
+   git clone https://github.com/JeaziRicardo/recipes-list.git
    cd recipes_list
   ```
 
